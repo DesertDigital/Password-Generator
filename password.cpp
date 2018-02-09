@@ -63,13 +63,6 @@ int main ()
     cout << "Enter valid choice!" << endl;
   }
 
-
-  
-
-
-
-
-  
   //int RandIndex = rand() % 4; //generates a random number between 0 and 3
   //cout << arrayNum[RandIndex];
   //sizeof(arrayNum)/sizeof(*arrayNum)
